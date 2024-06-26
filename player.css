@@ -1,4 +1,24 @@
 .nba {
-    background-color: black;
-    color: white;
+    background-color: rgb(218, 11, 11);
+    color: rgb(219, 205, 205);
+}
+.education {
+    background-color: rgb(121, 8, 8);
+    color: rgb(139, 128, 128);
+}
+.black-Jesus {
+    background-color: rgb(218, 11, 11);
+    color: rgb(219, 205, 205);
+}
+
+.statistics {
+
+}
+
+.row {
+    background-image: url("trophy.png");
+    background-repeat: no-repeat;
+    background-size: 10px;
+    padding-left: 20px;
+    height: 20px;
 }
