@@ -1,24 +1,69 @@
-.nba {
-    background-color: rgb(218, 11, 11);
-    color: rgb(219, 205, 205);
-}
-.education {
-    background-color: rgb(121, 8, 8);
-    color: rgb(139, 128, 128);
-}
-.black-Jesus {
-    background-color: rgb(218, 11, 11);
-    color: rgb(219, 205, 205);
-}
-
-.statistics {
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+.banner {
+    background-color: #CE1141;
+    margin: -10px;
+    padding: 30px;
+    font-size: 40px;
+    font-family: "Anton", sans-serif;
+    text-align: center;
+    color: black;
 
 }
+nav{
+    font-size: 20px;
+    font-family: "Anton", sans-serif;
+    background-color: Black	;
+    color: white;
+    margin: -10px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 10px;
+    
+}
+nav ul {
+    list-style-type: none;
+    display: flex;
+}
+nav ul li {
+    margin-left: 20px;
+}
 
-.row {
-    background-image: url("trophy.png");
-    background-repeat: no-repeat;
-    background-size: 10px;
-    padding-left: 20px;
-    height: 20px;
+nav ul li a {
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+}
+
+nav ul li a:hover {
+    background-color: #111111;
+}
+.banner-content {
+    padding: 20px;
+    font-size: 20px;
+    color:  black; 
+  background-color: #white	;
+  margin: -10px;
+  font-family: "Anton", sans-serif;
+
+}
+p{
+    color: black;
+    font-family: "Anton", sans-serif;
+}
+h1{
+    font-size: 30px;
+    font-family: "Anton", sans-serif;
+}
+.nba{
+    color: black;
+    font-family: "Anton", sans-serif;
+}
+.statistics{
+    color: black;
+    font-family: "Anton", sans-serif;
+}
+.education{
+    color: black;
+    font-family: "Anton", sans-serif;
 }
