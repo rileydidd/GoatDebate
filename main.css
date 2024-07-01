@@ -47,14 +47,3 @@ nav ul li a:hover {
   font-family: "Anton", sans-serif;
 
 }
-.rounded-image {
-  
-    width: 200px; 
-    
-    border-radius: 50%; 
-    
-    float: left;
-    
-    
-    margin-right: 20px;
-  }
